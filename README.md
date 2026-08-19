@@ -1,0 +1,2 @@
+# PContabi
+Deploy parcial 
